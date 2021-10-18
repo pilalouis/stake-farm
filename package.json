@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@ethersproject/units": "^5.4.0",
+    "@material-ui/core": "^4.12.3"
+  }
+}
