@@ -9,7 +9,7 @@
 <br/>
 
 ## Summary 
-stake farm is a defi staking application for yield farming, borrowing and lending, or any other project you can think of. It allows you to:
+stake farm is a defi staking application for yield farming, borrowing and lending. It allows you to:
 
 - `stakeTokens`: Add any approved token to the farming contract for yeild farming, collateral, or whatever you want to do.
 - `unStakeTokens`: Remove your tokens from the contract.
