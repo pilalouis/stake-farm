@@ -9,7 +9,7 @@
 <br/>
 
 ## Summary 
-This is a repo to build your own full stack defi staking application for yield farming, borrowing and lending, or any other project you can think of. It allows you to:
+stake farm is a defi staking application for yield farming, borrowing and lending, or any other project you can think of. It allows you to:
 
 - `stakeTokens`: Add any approved token to the farming contract for yeild farming, collateral, or whatever you want to do.
 - `unStakeTokens`: Remove your tokens from the contract.
@@ -135,7 +135,7 @@ To get started with Brownie:
 Shoutout to [Matt Durkin](https://twitter.com/mdurkin92) on twitter for creating the UI!
 Shoutout to [Gregory from Dapp University](https://www.dappuniversity.com/) for the inspiration for this!
 
-Any questions? Join our [Discord](https://discord.gg/2YHSAey) or open an issue. 
+
 
 # License
 
